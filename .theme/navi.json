@@ -1,8 +1,8 @@
 [
   {
     "title":"Ace Pro Dashboard",
-    "href":"http://192.168.1.49:4410/ace-dashboard.html"
-    "target":"_blank"
-    "position":"30" 
+    "href":"http://192.168.1.49:4410/ace-dashboard.html",
+    "target":"_blank",
+    "position":90
   }
 ]  
